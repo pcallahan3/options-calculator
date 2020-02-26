@@ -44,4 +44,6 @@ public static void calculateTheSumOfContracts(int contracts,double price) {
 public static void calculateTheSumOfTheShares(double shares,double price) {
 	System.out.println("The sum of the shares is: $" + shares * price);
 }
+
+
 }
